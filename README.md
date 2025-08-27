@@ -1,12 +1,28 @@
-# React + Vite
+# 💻 Frontend Mentor Solutions App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Overview**  
+This React.js-based application serves as a personalized hub for showcasing and exploring solutions to various [Frontend Mentor](https://www.frontendmentor.io/) challenges. Built with attention to clean design and efficient functionality, the app features conditional routing, responsive layouts, and dynamic rendering of challenge solutions. Tailwind CSS powers the UI styling, while `useState` is used for state management to keep the experience lightweight and reactive.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ **Features**
+- 🧩 Browse through multiple frontend challenge solutions  
+- 📂 Categorized and filterable challenge listings  
+- 🧭 Navigation handled by React Router  
+- 🔀 Conditional rendering for project pages  
+- 💾 State management using React’s `useState` hook  
+- 🎨 Clean, responsive UI styled with Tailwind CSS  
+- ⚙️ Component-based structure for reusability and clarity  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📌 **Technologies Used**
+- [React.js](https://reactjs.org/) – Frontend UI library  
+- [React Router](https://reactrouter.com/) – Client-side routing  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework  
+- React Hooks (`useState`) – Lightweight state management  
+
+---
+
+🚀 **Live Demo**  
+🔗 [Live Demo](https://frontend-mentor-fb.vercel.app/) 
