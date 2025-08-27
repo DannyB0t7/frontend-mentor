@@ -4,12 +4,12 @@ function MainNav() {
   return (
     <div className="bg-black text-white">
       <div className="px-4 max-w-6xl m-auto">
-        <Link to="/">
-          <nav className="py-6 flex gap-3 items-center w-fit">
+        <nav>
+          <Link to="/" className="py-6 flex gap-3 items-center w-fit">
             <img src="/favicon-32x32.png" className="w-[30px] h-[30px]" />
             <h1 className="text-2xl font-medium">Frontend Mentor</h1>
-          </nav>
-        </Link>
+          </Link>
+        </nav>
       </div>
 
       <div className="border-b-1 border-t-1 border-white/15">
