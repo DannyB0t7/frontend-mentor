@@ -1,4 +1,3 @@
-import React from "react";
 import memory from "../assets/resultSummary/icon-memory.svg";
 import reaction from "../assets/resultSummary/icon-reaction.svg";
 import verbal from "../assets/resultSummary/icon-verbal.svg";

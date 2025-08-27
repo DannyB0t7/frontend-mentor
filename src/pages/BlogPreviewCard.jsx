@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import background from "../assets/blogPreviewCard/illustration-article.svg";
 import avatar from "../assets/blogPreviewCard/image-avatar.webp";

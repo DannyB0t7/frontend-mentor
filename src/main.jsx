@@ -15,7 +15,7 @@ import FlyoSummary from "./pages/FlyoSummary";
 
 const router = createBrowserRouter([
   { path: "/", element: <Home /> },
-  { path: "/social", element: <SocialLinksProfile /> },
+  { path: "/socials", element: <SocialLinksProfile /> },
   { path: "/blog", element: <BlogPreviewCard /> },
   { path: "/code", element: <QrCodeCard /> },
   { path: "/profile", element: <ProfileCard /> },

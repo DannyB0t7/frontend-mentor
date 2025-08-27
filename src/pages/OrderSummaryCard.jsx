@@ -1,4 +1,3 @@
-import React from "react";
 import hero from "../assets/orderSummaryCard/illustration-hero.svg";
 import iconMusic from "../assets/orderSummaryCard/icon-music.svg";
 import { Link } from "react-router-dom";

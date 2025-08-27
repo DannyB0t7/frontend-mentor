@@ -1,4 +1,3 @@
-import React from "react";
 import iconStar from "../assets/InteractiveRating/icon-star.svg";
 import Rating from "../components/Rating";
 import { Link } from "react-router-dom";

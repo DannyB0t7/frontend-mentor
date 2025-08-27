@@ -1,4 +1,3 @@
-import React from "react";
 import code from "../assets/qrCode/image-qr-code.png";
 import { Link } from "react-router-dom";
 

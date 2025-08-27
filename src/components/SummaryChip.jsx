@@ -1,4 +1,3 @@
-import React from "react";
 
 function SummaryChip({ img, category, score }) {
   let textColor, bgColor;

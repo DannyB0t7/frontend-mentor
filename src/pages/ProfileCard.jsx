@@ -1,4 +1,3 @@
-import React from "react";
 import bgcard from "../assets/profileCard/bg-pattern-card.svg";
 import profile from "../assets/profileCard/image-victor.jpg";
 import { Link } from "react-router-dom";

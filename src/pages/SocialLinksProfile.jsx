@@ -1,4 +1,3 @@
-import React from "react";
 import profile from "../assets/socialLinkProfile/avatar-jessica.jpeg";
 import { Link } from "react-router-dom";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import logo from "../assets/flyoSummary/logo.svg";
 import doc from "../assets/flyoSummary/icon-document.svg";
 import folder from "../assets/flyoSummary/icon-folder.svg";
